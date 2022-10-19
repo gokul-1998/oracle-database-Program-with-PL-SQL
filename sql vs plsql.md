@@ -11,6 +11,7 @@
   * disadvantage -> cant use OOPS like encapsulation,hiding,abstraction,etc....
 ### SQL
   * exclusive for RDBMS-> CRUD
+  * in RDBMS , data is stored in 2d form as rows and columns
   * they use key to inter related to different tables
   * mysql,oracle,sqlserver,sybase
 
@@ -25,3 +26,5 @@
 | cannot be embededin SQL  |  can be embedded in PL/SQL |
 | do not interact with db server directly,but with sql we can get  |  used to work upoon the server hence interacts with the same server using queries |
 | adds good amount of functionality to SQL  |  used widely,and efficient |
+
+source : https://www.youtube.com/watch?v=SRZehj9FOUE
