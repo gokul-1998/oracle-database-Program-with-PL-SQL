@@ -1,7 +1,3 @@
-### Declaring PL/SQL Variables
-
-* Recognize valid and invalid identifiers
-
 ### PL/SQL(procedural language SQL) vs SQL
 * procedural -> allows us to execute any part of code at any point of time.
 * PL/SQL block of code consists of
