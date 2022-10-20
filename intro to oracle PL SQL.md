@@ -272,7 +272,7 @@ END;
 - output
 ```
 Multple records fetched from the query
-```
+
 ## ADVANTAGE OF PL/SQL
 - 1) Block Structure : has blocks of code which can be nested within each other, and can be stored in DB and reused
 - 2) Consists of procedural language structure, if else and loops
