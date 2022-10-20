@@ -33,4 +33,14 @@
     -- Write Exceptions
     END;
     ```
-    
+  * SAMPLE 1 : print a message
+  ```
+  BEGIN
+    DBMS_OUTPUT>PUT_LINE('welcome to pl/sql training');
+  END;
+  ```
+   * output 
+   ```
+   welcome to pl/sql training
+   ```
+* online compiler -> https://livesql.oracle.com/
