@@ -7,5 +7,5 @@ https://youtu.be/iuvzjf7nU1I
 ### exam topics
 https://education.oracle.com/oracle-database-program-with-pl-sql/pexam_1Z0-149
 
-### documentation
+### documentation and book download
 https://docs.oracle.com/database/121/LNPLS/loe.htm

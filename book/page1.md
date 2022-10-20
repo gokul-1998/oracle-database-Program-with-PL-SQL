@@ -163,6 +163,8 @@ SQL*Plus command SET SERVEROUTPUT ON.
 	-  To accept data directly
 from the keyboard, use the SQL*Plus commands PROMPT and ACCEPT.
 
+----------------------- PAGE 43 ---------------------------------
+
 
 
 
