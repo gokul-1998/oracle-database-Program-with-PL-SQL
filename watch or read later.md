@@ -26,3 +26,6 @@ https://www.oracle.com/technetwork/database/features/plsql/overview/sample2174ch
 https://www.guru99.com/pl-sql-interview-questions-answers.html
 ### 4 hr yt video
 https://youtu.be/2IhuBCGThsQ
+
+### 7 hr yt video
+https://youtu.be/yGU4YfSSjdM
