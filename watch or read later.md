@@ -13,6 +13,7 @@ https://docs.oracle.com/database/121/LNPLS/loe.htm
 ### mcqs
 https://nareshit.in/pl-sql-objective-questions-1/#Which_command_should_be_used_to_turn_on_the_output_of_PLSQL_commands_in_SQLPlus
 
+<<<<<<< HEAD
 ### pl/sql sample programs 
 https://docs.oracle.com/cd/B10500_01/appdev.920/a96624/a_samps.htm
 
@@ -24,3 +25,7 @@ https://www.oracle.com/technetwork/database/features/plsql/overview/sample2174ch
 
 ### plsql interview questions
 https://www.guru99.com/pl-sql-interview-questions-answers.html
+=======
+### 4 hr yt video
+https://youtu.be/2IhuBCGThsQ
+>>>>>>> 1db4c22feaff03122fe28179a450484ff0db544a
