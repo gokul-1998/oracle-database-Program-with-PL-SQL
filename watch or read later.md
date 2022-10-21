@@ -12,3 +12,6 @@ https://docs.oracle.com/database/121/LNPLS/loe.htm
 
 ### mcqs
 https://nareshit.in/pl-sql-objective-questions-1/#Which_command_should_be_used_to_turn_on_the_output_of_PLSQL_commands_in_SQLPlus
+
+### 4 hr yt video
+https://youtu.be/2IhuBCGThsQ
